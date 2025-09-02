@@ -4,32 +4,21 @@
 
 ## [Syracuse University, Master's of Applied Human Centered Artificial Intelligence](https://ischool.syracuse.edu/academics/applied-human-centered-artificial-intelligence-masters-degree/)
 
-# IST 687 Applied Data Science - Fall 2025
+# IST 736 - Text Mining
 ## Course Syllabus 
 
 **Course Description:**
-The course introduces students to the fundamentals about data and the standards, technologies, and methods for organizing, managing, curating, preserving, and using data. It discusses broader issues relating to data management, ethics, quality control and publication of data.
-
-Applied examples of data collection, processing, transformation, management, and analysis as well as a hands-on introduction to the emerging field of data science, are provided.
-
-Students will explore key concepts related to data science, including applied statistics, information visualization, text mining and machine learning. R, the open-source statistical analysis and visualization system, will be used throughout the course. R is reckoned by many to be the most popular choice among data analysts worldwide; having knowledge and skill with using it is considered a valuable and marketable job skill for most data scientists.
-
-**Learning Objectives:**
-After taking this course, the students will be expected to understand:
-- Essential concepts and characteristics of data.
-- The purpose of scripting for data management using R and RStudio.
-- Principles and practices in data screening, cleaning, linking, and visualizations.
-- The importance of clear communication of results to decision-makers.
-- The key ethical challenges associated with applications of data science in a variety
-of contexts.
+This course takes a historical perspective to introduce four generations of text mining techniques: rule- and knowledge-based methods, traditional machine learning, transformers, and zero- and few-shot learning with large language models. This course also teaches text mining as a research method for solving data science problems in various domains, such as social media analysis and science literature mining. Case studies are used to teach the design and evaluation of text mining solutions.
 
 **After taking this course, the students will be able to:**
-- Identify a problem and the data needed for addressing the problem.
-- Perform basic computational scripting using R and other optional tools.
-- Transform data through processing, linking, aggregation, summarization, and
-searching.
-- Organize and manage data at various stages of a project lifecycle.
-- Determine appropriate techniques for analyzing data.
+After taking this course, the students will be expected to understand:
+- Describe basic concepts and methods in text mining, for example text
+representation, text classification and clustering, and topic modeling;
+- Use the text mining concepts and methods to model real-world problems into text
+mining tasks, develop technical solutions, and evaluate the effectiveness of the
+solutions.
+- Communicate text mining process, result, and major findings to various audience
+including both experts and laypersons.
 
 
 [Syracuse University, School of Information Studies](https://ischool.syracuse.edu/)
